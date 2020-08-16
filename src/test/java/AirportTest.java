@@ -98,5 +98,4 @@ public class AirportTest {
         }
         Assert.assertFalse(hasUnclassifiedPlanes);
     }
-
 }
